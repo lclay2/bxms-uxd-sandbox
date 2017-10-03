@@ -81,6 +81,10 @@
 .line {
 }
 .text_field {
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
   color:#000000;
   text-align:left;
 }
@@ -118,4 +122,12 @@
   text-align:left;
 }
 .icon {
+}
+.new_style {
+  font-family:'OpenSans', 'Open Sans';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  color:#666666;
+  text-align:left;
 }

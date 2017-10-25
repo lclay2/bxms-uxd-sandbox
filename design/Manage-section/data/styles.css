@@ -61,6 +61,15 @@
 }
 .box_3 {
 }
+.shape {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:8px;
+  color:#169BD5;
+  text-align:center;
+  line-height:normal;
+}
 .image {
 }
 .button {
@@ -113,6 +122,8 @@
 }
 .tree_node {
   text-align:left;
+}
+.table_cell {
 }
 .menu_item {
 }

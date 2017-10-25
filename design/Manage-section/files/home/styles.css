@@ -2704,7 +2704,7 @@
 #u90 {
   border-width:0px;
   position:absolute;
-  left:572px;
+  left:554px;
   top:124px;
   width:97px;
   height:32px;
@@ -2771,7 +2771,7 @@
 #u91 {
   border-width:0px;
   position:absolute;
-  left:479px;
+  left:461px;
   top:124px;
   width:91px;
   height:32px;
@@ -2828,7 +2828,7 @@
 #u92 {
   border-width:0px;
   position:absolute;
-  left:571px;
+  left:553px;
   top:124px;
   width:1px;
   height:33px;
@@ -4685,19 +4685,25 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
+  font-weight:700;
+  font-style:normal;
   font-size:12px;
-  color:#999999;
+  color:#CCCCCC;
   text-align:left;
 }
 #u155 {
   border-width:0px;
   position:absolute;
-  left:405px;
+  left:408px;
   top:130px;
   width:68px;
   height:23px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
+  font-weight:700;
+  font-style:normal;
   font-size:12px;
-  color:#999999;
+  color:#CCCCCC;
   text-align:left;
 }
 #u155_text {
@@ -4737,7 +4743,7 @@
 #u157 {
   border-width:0px;
   position:absolute;
-  left:694px;
+  left:674px;
   top:159px;
   width:344px;
   height:277px;
@@ -4774,7 +4780,7 @@
 #u158 {
   border-width:0px;
   position:absolute;
-  left:767px;
+  left:747px;
   top:203px;
   width:95px;
   height:210px;
@@ -4838,7 +4844,7 @@
 #u159 {
   border-width:0px;
   position:absolute;
-  left:745px;
+  left:725px;
   top:203px;
   width:25px;
   height:210px;
@@ -4882,7 +4888,7 @@
 #u160 {
   border-width:0px;
   position:absolute;
-  left:979px;
+  left:959px;
   top:202px;
   width:27px;
   height:210px;
@@ -4948,7 +4954,7 @@
 #u161 {
   border-width:0px;
   position:absolute;
-  left:1012px;
+  left:992px;
   top:174px;
   width:12px;
   height:12px;
@@ -4989,7 +4995,7 @@
 #u162 {
   border-width:0px;
   position:absolute;
-  left:718px;
+  left:698px;
   top:203px;
   width:25px;
   height:150px;
@@ -5031,7 +5037,7 @@
 #u163 {
   border-width:0px;
   position:absolute;
-  left:713px;
+  left:693px;
   top:172px;
   width:73px;
   height:17px;
@@ -5072,7 +5078,7 @@
 #u164 {
   border-width:0px;
   position:absolute;
-  left:693px;
+  left:673px;
   top:124px;
   width:92px;
   height:32px;

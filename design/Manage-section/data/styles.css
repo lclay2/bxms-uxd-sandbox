@@ -61,6 +61,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .shape {
   font-family:'ArialMT', 'Arial';
   font-weight:400;
@@ -122,8 +124,6 @@
 }
 .tree_node {
   text-align:left;
-}
-.table_cell {
 }
 .menu_item {
 }

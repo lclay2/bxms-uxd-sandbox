@@ -492,7 +492,7 @@
   border-width:0px;
   position:absolute;
   left:329px;
-  top:239px;
+  top:243px;
   width:29px;
   height:16px;
   font-family:'OpenSans', 'Open Sans';
@@ -575,7 +575,7 @@
 #u14 {
   position:absolute;
   left:310px;
-  top:264px;
+  top:268px;
 }
 #u14_state0 {
   position:relative;
@@ -1142,7 +1142,7 @@
   border-width:0px;
   position:absolute;
   left:361px;
-  top:304px;
+  top:308px;
   width:596px;
   height:374px;
 }
@@ -1180,7 +1180,7 @@
   border-width:0px;
   position:absolute;
   left:394px;
-  top:333px;
+  top:337px;
   width:193px;
   height:24px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
@@ -1210,7 +1210,7 @@
   border-width:0px;
   position:absolute;
   left:923px;
-  top:333px;
+  top:337px;
   width:16px;
   height:16px;
   font-size:12px;
@@ -1228,7 +1228,7 @@
   border-width:0px;
   position:absolute;
   left:397px;
-  top:426px;
+  top:430px;
   width:510px;
   height:171px;
   overflow:hidden;
@@ -1314,7 +1314,7 @@
   border-width:0px;
   position:absolute;
   left:397px;
-  top:373px;
+  top:377px;
   width:510px;
   height:39px;
 }
@@ -1351,7 +1351,7 @@
   border-width:0px;
   position:absolute;
   left:411px;
-  top:384px;
+  top:388px;
   width:21px;
   height:16px;
   font-family:'FontAwesome';
@@ -1392,7 +1392,7 @@
   border-width:0px;
   position:absolute;
   left:447px;
-  top:385px;
+  top:389px;
   width:420px;
   height:16px;
   font-family:'OpenSans', 'Open Sans';
@@ -1432,7 +1432,7 @@
   border-width:0px;
   position:absolute;
   left:707px;
-  top:620px;
+  top:624px;
   width:91px;
   height:28px;
   font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
@@ -1471,7 +1471,7 @@
   border-width:0px;
   position:absolute;
   left:813px;
-  top:620px;
+  top:624px;
   width:92px;
   height:28px;
   font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
@@ -1511,7 +1511,7 @@
   border-width:0px;
   position:absolute;
   left:406px;
-  top:239px;
+  top:243px;
   width:23px;
   height:15px;
   font-family:'FontAwesome';
@@ -1606,7 +1606,7 @@
   border-width:0px;
   position:absolute;
   left:1144px;
-  top:160px;
+  top:165px;
   width:68px;
   height:26px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
@@ -1643,7 +1643,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:8px;
+  top:6px;
   width:64px;
   word-wrap:break-word;
 }
@@ -1652,7 +1652,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:80px;
+  width:111px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1671,9 +1671,9 @@
 #u43 {
   border-width:0px;
   position:absolute;
-  left:1042px;
-  top:162px;
-  width:80px;
+  left:1009px;
+  top:166px;
+  width:111px;
   height:24px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
   font-weight:600;
@@ -1687,7 +1687,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:80px;
+  width:111px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1709,8 +1709,8 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:6px;
-  width:76px;
+  top:5px;
+  width:107px;
   word-wrap:break-word;
 }
 #u44_img {
@@ -1725,7 +1725,7 @@
   border-width:0px;
   position:absolute;
   left:1133px;
-  top:166px;
+  top:170px;
   width:1px;
   height:19px;
   color:#0099D3;
@@ -1759,7 +1759,7 @@
   border-width:0px;
   position:absolute;
   left:901px;
-  top:188px;
+  top:191px;
   width:250px;
   height:139px;
   font-size:8px;
@@ -1797,7 +1797,7 @@
   border-width:0px;
   position:absolute;
   left:1074px;
-  top:285px;
+  top:288px;
   width:68px;
   height:24px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
@@ -1840,7 +1840,7 @@
   border-width:0px;
   position:absolute;
   left:1000px;
-  top:285px;
+  top:288px;
   width:64px;
   height:23px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
@@ -1861,7 +1861,7 @@
   border-width:0px;
   position:absolute;
   left:930px;
-  top:239px;
+  top:242px;
   width:212px;
   height:31px;
 }
@@ -1891,7 +1891,7 @@
   border-width:0px;
   position:absolute;
   left:928px;
-  top:217px;
+  top:220px;
   width:70px;
   height:19px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
@@ -2150,7 +2150,7 @@
   border-width:0px;
   position:absolute;
   left:311px;
-  top:197px;
+  top:201px;
   width:100px;
   height:17px;
   font-family:'OpenSans', 'Open Sans';
@@ -2356,7 +2356,7 @@
   border-width:0px;
   position:absolute;
   left:1009px;
-  top:239px;
+  top:243px;
   width:91px;
   height:14px;
   font-size:10px;
@@ -2391,7 +2391,7 @@
   border-width:0px;
   position:absolute;
   left:832px;
-  top:240px;
+  top:244px;
   width:68px;
   height:14px;
   font-size:10px;
@@ -2426,7 +2426,7 @@
   border-width:0px;
   position:absolute;
   left:568px;
-  top:240px;
+  top:244px;
   width:100px;
   height:14px;
   font-size:10px;
@@ -2461,7 +2461,7 @@
   border-width:0px;
   position:absolute;
   left:496px;
-  top:240px;
+  top:244px;
   width:56px;
   height:14px;
   font-size:10px;
@@ -2499,7 +2499,7 @@
   border-width:0px;
   position:absolute;
   left:363px;
-  top:233px;
+  top:237px;
   width:105px;
   height:28px;
   font-family:'OpenSans-Semibold', 'Open Sans Semibold', 'Open Sans';
@@ -3424,7 +3424,7 @@
   border-width:0px;
   position:absolute;
   left:1134px;
-  top:239px;
+  top:243px;
   width:45px;
   height:14px;
   font-size:10px;
@@ -6426,7 +6426,7 @@
   border-width:0px;
   position:absolute;
   left:895px;
-  top:194px;
+  top:198px;
   width:105px;
   height:22px;
 }
@@ -6488,7 +6488,7 @@
   border-width:0px;
   position:absolute;
   left:1173px;
-  top:721px;
+  top:725px;
   width:23px;
   height:23px;
   font-family:'FontAwesome';
@@ -6528,7 +6528,7 @@
   border-width:0px;
   position:absolute;
   left:1032px;
-  top:726px;
+  top:730px;
   width:71px;
   height:17px;
   font-family:'OpenSans', 'Open Sans';
@@ -6571,7 +6571,7 @@
   border-width:0px;
   position:absolute;
   left:1141px;
-  top:721px;
+  top:725px;
   width:24px;
   height:23px;
   font-family:'FontAwesome';
@@ -6634,7 +6634,7 @@
   border-width:0px;
   position:absolute;
   left:1111px;
-  top:721px;
+  top:725px;
   width:24px;
   height:23px;
   color:#0099D3;
@@ -6702,7 +6702,7 @@
   border-width:0px;
   position:absolute;
   left:1180px;
-  top:192px;
+  top:196px;
   width:24px;
   height:24px;
   font-family:'FontAwesome';
@@ -6742,7 +6742,7 @@
   border-width:0px;
   position:absolute;
   left:1037px;
-  top:197px;
+  top:201px;
   width:71px;
   height:17px;
   font-family:'OpenSans', 'Open Sans';
@@ -6785,7 +6785,7 @@
   border-width:0px;
   position:absolute;
   left:1150px;
-  top:192px;
+  top:196px;
   width:23px;
   height:24px;
   font-family:'FontAwesome';
@@ -6848,7 +6848,7 @@
   border-width:0px;
   position:absolute;
   left:1117px;
-  top:192px;
+  top:196px;
   width:26px;
   height:24px;
   color:#0099D3;
@@ -6894,7 +6894,7 @@
   border-width:0px;
   position:absolute;
   left:310px;
-  top:224px;
+  top:228px;
   width:895px;
   height:1px;
 }
@@ -6919,7 +6919,7 @@
   border-width:0px;
   position:absolute;
   left:1020px;
-  top:201px;
+  top:205px;
   width:1px;
   height:15px;
 }

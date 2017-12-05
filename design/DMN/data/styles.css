@@ -13,6 +13,8 @@
 }
 .box_3 {
 }
+.shape {
+}
 .image {
 }
 .button {
@@ -87,6 +89,12 @@
   text-align:left;
 }
 .sticky_2 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.sticky_4 {
   text-align:left;
 }
 .marker {

@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .box_3 {
 }
 .heading_1 {
@@ -58,4 +60,18 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
